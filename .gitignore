@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Testnotebook
+Utilities/TestArea.ipynb
+
+# log files
+BotIn.log
